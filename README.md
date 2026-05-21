@@ -10,8 +10,6 @@
   <a href="https://www.linkedin.com/in/abhiram-gannavaram-8b4982114/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
 I'm a senior DevOps engineer who spends equal time operating Kubernetes clusters and building AI agents. My current focus is agentic AI workflows — systems where LLMs don't just answer questions but drive infrastructure, automate ops, and act autonomously.
 
 **What I work on:**
@@ -20,8 +18,6 @@ I'm a senior DevOps engineer who spends equal time operating Kubernetes clusters
 - **AI-Native Tools** — MCP servers, coding agents, LLM-powered K8s operators
 - **CI/CD & GitOps** — GitHub Actions, ArgoCD, end-to-end delivery pipelines
 - **Chatbots** — production RAG systems, memory, tool-calling, multi-turn agents
-
----
 
 ### Stack
 
@@ -39,28 +35,10 @@ I'm a senior DevOps engineer who spends equal time operating Kubernetes clusters
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 
----
-
-### Selected Projects
-
-| | Project | Description |
-|--|---------|-------------|
-| 🤖 | **BrowserOS** | AI-native browser with built-in agent loops and LLM routing |
-| ⚡ | **cagan** | Provider-agnostic AI coding agent — works with any LLM |
-| 🧠 | **agent-swarmx** | Multi-agent orchestration framework |
-| ☸️ | **custom-mcp-k8s** | Control Kubernetes clusters via natural language using MCP |
-| 🚀 | **eks-mcp-by-claude** | End-to-end EKS + Kratix cluster setup via Claude MCP |
-| 🐦 | **xbot** | Autonomous X bot — AWS Step Functions + 6 Lambdas + DynamoDB |
-| ✍️ | **promptcraft** | Transforms raw prompts into structured, effective ones |
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiram-gannavaram&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram-gannavaram&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
-
----
 
 <p align="center">
   <sub>Open to collaborating on: agentic AI systems · LLM-powered infra · K8s tooling</sub>
