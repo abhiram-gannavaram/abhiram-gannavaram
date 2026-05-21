@@ -2,87 +2,88 @@
 
 # Abhiram Gannavaram
 
-**Building AI agents, browser automation & cloud-native infra tooling**
+**DevOps Engineer · 10 Years Experience**
 
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/abhiram_g)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-gannavaram)
+*DevOps · AI · LLM · Agentic AI Workflows · Chatbots · Docker · Kubernetes · Terraform · GitHub Actions · Python*
 
 </div>
 
 ---
 
-## What I Build
+## About
 
-I work at the intersection of **AI agents** and **cloud infrastructure** — building tools that are LLM-native from the ground up, not AI bolted onto existing systems.
+Senior DevOps engineer with 10 years of hands-on experience, now deep in the AI/LLM space. I build and operate production infrastructure while designing agentic AI systems, LLM-powered workflows, and intelligent automation on top of it.
 
-Current focus areas:
-- **AI Agents & Orchestration** — multi-agent systems, coding agents, browser agents
-- **LLM-Powered Infrastructure** — K8s clusters you can talk to, MCP servers for cloud ops
-- **Browser Automation** — AI-native browser experiences with agent loops
-- **DevOps & Cloud-Native** — EKS, Terraform, AWS, CI/CD at scale
+Not just running infra — building systems where AI *is* the operator.
 
 ---
 
 ## Tech Stack
 
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazoneks&logoColor=white)
+
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![HCL](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 **AI & LLMs**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok%20(xAI)-000000?style=flat&logo=x&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Infrastructure & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazoneks&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
 
-## Projects
+## What I Build
 
-| Project | What it does | Stack |
+| Area | What |
+|------|------|
+| **Agentic AI Workflows** | Multi-agent pipelines, autonomous bots, LLM-driven automation |
+| **AI Chatbots** | Production chatbots backed by RAG, tool use, memory |
+| **LLM-Powered Infra** | K8s clusters controllable via natural language, MCP servers for cloud ops |
+| **Browser AI** | AI-native browser with agent loops and LLM routing |
+| **CI/CD & GitOps** | GitHub Actions pipelines, ArgoCD, full GitOps workflows |
+| **Cloud Infrastructure** | EKS, EC2, Lambda, Step Functions, S3, DynamoDB on AWS |
+
+---
+
+## Key Projects
+
+| Project | Description | Stack |
 |---------|-------------|-------|
-| **BrowserOS** | AI-native browser with built-in agent loops, automation, and LLM routing | Dart, Flutter |
-| **cagan** | Provider-agnostic AI coding agent — works with any LLM | TypeScript |
-| **custom-mcp-k8s** | Kubernetes MCP server — control your cluster with natural language | TypeScript |
-| **eks-mcp-by-claude** | End-to-end EKS + Kratix cluster setup via Claude MCP | Shell, Terraform |
-| **promptcraft** | Transform raw prompts into structured, effective ones | JavaScript |
+| **BrowserOS** | AI-native browser — agent loops, automation, LLM routing built-in | Dart |
+| **cagan** | Provider-agnostic AI coding agent — plug in any LLM | TypeScript |
+| **custom-mcp-k8s** | Control Kubernetes clusters with natural language via MCP | TypeScript |
+| **eks-mcp-by-claude** | Full EKS + Kratix cluster provisioning via Claude MCP | Shell |
 | **agent-swarmx** | Multi-agent orchestration framework | TypeScript |
-| **xbot** | Autonomous X/Twitter bot — 6x/day posts via AWS Step Functions + Lambda | Python, AWS |
+| **xbot** | Autonomous posting bot — AWS Step Functions + 6 Lambdas + DynamoDB | Python |
+| **promptcraft** | Transforms raw prompts into structured, effective ones | JavaScript |
 
 ---
 
-## How I Work
+## Experience Snapshot
 
-- Build fast, ship often — MVPs over perfect architecture
-- LLM-first design — not AI as a feature, AI as the runtime
-- Infra as code everywhere — if it's not in Terraform/YAML, it doesn't exist
-- Tools I reach for: Claude Code, MCP servers, EKS, AWS Lambda, Step Functions
-
----
-
-## Currently
-
-- Building AI agents that operate autonomously in the browser and cloud
-- Exploring MCP servers as the interface layer between LLMs and real systems
-- Open to collabs on: AI agent frameworks, browser automation, LLM infra tooling
+- 10 years in DevOps — from bare metal to Kubernetes to serverless
+- Designed and operated EKS clusters, multi-region AWS infra, and GitOps pipelines at scale
+- Last 2 years: integrating LLMs into infra tooling, building agentic AI systems
+- Contributor to internal platforms and MCP-based AI toolchains
 
 ---
 
 <div align="center">
 
-*"Ship it, then make it good."*
+*Infrastructure that thinks. Agents that ship.*
 
 </div>
